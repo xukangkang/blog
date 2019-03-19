@@ -5,7 +5,7 @@ Blog
 
 ### Redis
 
-- [文章标题](https://github.com/farmerjohngit/myblog/issues/1)
+- [文章标题](https://github.com/xukangkang/blog/issues/3)
 
 
 ## 关于作者
